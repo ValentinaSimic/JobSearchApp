@@ -18,7 +18,7 @@ All app is implemented using JS, for back-end as well as for front-end side.
 Examples used for comparison are storred in ExampleUsedForComaprison folder.
 
 ## Demo
-![jobSearch gif](./demo/jobSearch.gif) 
+![jobSearch gif](./demo/Screencast-2021-02-12-170503.gif) 
 
 
 ## Technologies
