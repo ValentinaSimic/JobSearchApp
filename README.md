@@ -1,4 +1,4 @@
-# JobSearch App
+# JobSearch App 
 > App implemented for needs of the master's thesis, for the purpose of comparing the three most known asynchronous patterns in JavaScript: Callbacks, Promises and Async/Await.
 
 ## Table of contents
